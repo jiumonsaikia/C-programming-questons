@@ -1,2 +1,2 @@
-# C-programming-questons
+# C-programming-questions 
 Nawab sir's first assignment
